@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500;600;700&display=swap");
+#landing {
+  font-family: Hind Siliguri;
+  background-color: #08aeea;
+  background-image: radial-gradient(0deg, #08aeea 0%, #2af598 100%);
+}
+.logo {
+  margin-top: 5vh;
+  height: 20vh;
+}
+.title {
+  font-weight: 700;
+}
+.slogan {
+  font-weight: 600;
+  color: white;
+}
+.freedom {
+  color: #8a0707;
+}
+.welcoming-text {
+  font-weight: 500;
+  margin: 5vw;
+}
+
+.cards {
+  margin: 5vw;
+}
+.basics {
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+.basics:hover {
+  background-color: #ec407a;
+}
+
+/* BOARDS */
+#boards {
+  font-family: Hind Siliguri;
+}
